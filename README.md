@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="Images/logo.png" alt="logo" width="300"></a>
+  <a href="https://github.com/pwnb0y/text2qr"><img src="Images/logo.png" alt="logo" width="300"></a>
   <br>
   T3XT2QR
   <br>
